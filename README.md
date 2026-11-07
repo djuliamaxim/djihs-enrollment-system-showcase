@@ -1,4 +1,4 @@
-# DJIHS Enrollment System
+# DJIHS Enrollment System ![App Showcase](DJIHS_showcase.gif)
 
 ## Short Description
 Role-based school enrollment web system for Don Jose Integrated High School. It helps school staff handle enrollment, student records, section assignment, document tracking, and reporting from one internal portal.
